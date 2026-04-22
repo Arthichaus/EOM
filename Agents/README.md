@@ -12,6 +12,14 @@ Pipeline cible :
 4. Les documents du projet sont mis à jour.
 5. Si la demande est design-only, aucun code n'est généré.
 
+## Source de vérité documentaire
+
+- Si `Documentation/Doc_EOM.md` existe, il devient le document maître.
+- `Documentation/Doc_EOM.md` est un résumé global: complet mais volontairement moins détaillé.
+- Les GDD spécialisés sont les compléments détaillés par aspect du jeu.
+- Les GDD spécialisés doivent rester synchronisés avec ce document maître.
+- En cas de conflit, arbitrage utilisateur requis avant validation finale.
+
 ## Fichiers principaux
 
 - `00_Principal_Orchestrateur.md`

@@ -15,7 +15,7 @@
 | **Disparition des 5** | Quelques années après la guerre, les 5 Légendes disparaissent une à une. Aucune explication officielle. La version écrite des faits les présente comme des héros qui se sont retirés après leur mission. La réalité est plus complexe pour chacun d'eux. |
 | **Reconstruction** | Les survivants reconstruisent sur les ruines. Le père du futur Doyen d'ARTIFICIUM découvre les derniers fragments d'énergie pure stables. Il cherche à reproduire cette énergie artificiellement pour alimenter la reconstruction. |
 | **La fusion de Rai** | L'un des 5 — Rai — est mortellement blessé. Plutôt que de le laisser mourir, le père d'ARTIFICIUM lui propose une fusion avec le dernier fragment d'énergie pure. Rai accepte par instinct de survie. Cette fusion crée la première source d'énergie artificielle — et le début de la corruption. |
-| **Ère actuelle (jeu)** | L'énergie artificielle alimente DivusPolice et Chitaracity. Sa source — Rai emprisonné dans le noyau — est le secret le mieux gardé de la ville. La corruption s'accélère. Personne ne comprend vraiment pourquoi. Angel se rapproche de la vérité. |
+| **Ère actuelle (jeu)** | L'énergie artificielle alimente DivusPolice et ChatarraCity. Sa source — Rai emprisonné dans le noyau — est le secret le mieux gardé de la ville. La corruption s'accélère. Personne ne comprend vraiment pourquoi. Angel se rapproche de la vérité. |
 
 ---
 

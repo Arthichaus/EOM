@@ -18,12 +18,12 @@ DivusPolice est gouvernée par une structure pyramidale à trois niveaux qui se 
 
 ## II. Le Directoire — Les Doyens
 
-Les Doyens forment un gouvernement autoritaire et élitiste. Leur philosophie officielle : montrer à la population de Chitaracity un modèle d'échec pour mieux valoriser DivusPolice. En réalité, ils maintiennent délibérément les inégalités pour préserver leur pouvoir. Ils sont vieux, confortables dans leur position, et de plus en plus dépassés par les événements.
+Les Doyens forment un gouvernement autoritaire et élitiste. Leur philosophie officielle : montrer à la population de ChatarraCity un modèle d'échec pour mieux valoriser DivusPolice. En réalité, ils maintiennent délibérément les inégalités pour préserver leur pouvoir. Ils sont vieux, confortables dans leur position, et de plus en plus dépassés par les événements.
 
 | | |
 |---|---|
 | **Composition** | Les chefs des 4 Familles + le Maire en exercice |
-| **Idéologie** | Élitisme assumé — la misère de Chitaracity est présentée comme un avertissement, pas comme une injustice |
+| **Idéologie** | Élitisme assumé — la misère de ChatarraCity est présentée comme un avertissement, pas comme une injustice |
 | **Rapport à l'énergie** | Savent que la corruption s'accélère. Choisissent de ne pas le dire publiquement. |
 | **Vulnérabilité** | Manipulés par Caïn Ardel qui leur fait croire avoir encore le contrôle. Divisés entre eux sur la conduite à tenir. |
 | **Rapport aux Archanges** | Les utilisent comme force de légitimation — les Archanges sont des Anges "purs" de DivusPolice, preuve vivante de la supériorité de la ville haute |
@@ -90,7 +90,7 @@ Angel a fui sa famille et ne l'a jamais regrettée. Retrouver Abigail comme anta
 | **Personnalité du chef** | Sincèrement passionné par l'art. Ne comprend pas pourquoi ce qu'il fait est mal — il crée, il partage, il touche les gens. Que le résultat soit destructeur lui semble secondaire face à la beauté de l'œuvre. |
 | **Membres** | Artistes, performers, journalistes, créateurs de toutes disciplines. Famille la plus visible et la plus excentrique de DivusPolice. |
 | **Façade** | Gardiens de la culture, mécènes des arts, voix de l'information libre |
-| **Réalité** | Contrôlent ce que la population voit, entend et ressent. Leur art est magnifique et leur propagande est invisible. Les journaux qu'ils publient façonnent l'opinion publique sur les Anges de Chitaracity — les déshumanisant progressivement. |
+| **Réalité** | Contrôlent ce que la population voit, entend et ressent. Leur art est magnifique et leur propagande est invisible. Les journaux qu'ils publient façonnent l'opinion publique sur les Anges de ChatarraCity — les déshumanisant progressivement. |
 | **Expérimentation énergétique** | Utilisent l'énergie artificielle dans leurs performances pour amplifier les émotions du public. Certains spectateurs en ressortent psychologiquement altérés. Pour ARTISA, c'est de l'art total. |
 
 **Arc narratif — ARTISA**
@@ -157,7 +157,7 @@ COMPUTATIO a repéré le robot d'Ethan et s'y intéresse énormément. Pas à Et
 
 ## IV. Les 4 Archanges
 
-Les Archanges sont les 4 Anges les plus puissants de DivusPolice — officiellement au service de la ville, officieusement au service du système des Doyens. Ils ont grandi dans l'idéologie de la ville haute : les Anges de DivusPolice sont purs, ceux de Chitaracity sont corrompus par une énergie impure.
+Les Archanges sont les 4 Anges les plus puissants de DivusPolice — officiellement au service de la ville, officieusement au service du système des Doyens. Ils ont grandi dans l'idéologie de la ville haute : les Anges de DivusPolice sont purs, ceux de ChatarraCity sont corrompus par une énergie impure.
 
 > *Révélation narrative : on apprend dans le jeu que l'énergie qui donne des pouvoirs est la même dans les deux villes. La distinction pur/impur est une construction idéologique, pas une réalité énergétique.*
 
@@ -203,7 +203,7 @@ Les Archanges sont les 4 Anges les plus puissants de DivusPolice — officiellem
 | **Capacité secondaire** | Soins de zone puissants. Peut apaiser temporairement des ennemis en combat. |
 | **Personnalité** | Douce mais pas naïve. Elle voit les injustices — elle croit qu'on peut changer le système de l'intérieur. Elle n'a pas tort sur le principe. Elle a tort sur ce système précis. |
 | **Arc potentiel** | Réalise progressivement que la paix qu'elle maintient est une paix pour une seule moitié de la ville. La plus susceptible de retourner sa veste si le joueur développe une relation avec elle. |
-| **Condition de retournement** | Affinité élevée + lui montrer concrètement les conditions de vie à Chitaracity qu'elle n'a jamais vues |
+| **Condition de retournement** | Affinité élevée + lui montrer concrètement les conditions de vie à ChatarraCity qu'elle n'a jamais vues |
 
 ---
 
@@ -239,7 +239,7 @@ Les Archanges sont les 4 Anges les plus puissants de DivusPolice — officiellem
 |---|---|---|---|---|
 | **Seran** | Le Juge | Verdict — stats croissantes avec le temps | À définir | Oui — si preuves d'injustice systémique |
 | **Kael** | La Force | Impact — armure renforcée par les coups | Non — tué par Max | Non — meurt fidèle |
-| **Liên** | La Paix | Réflexion — renvoie les attaques directes | À définir | Oui — si exposée aux réalités de Chitaracity |
+| **Liên** | La Paix | Réflexion — renvoie les attaques directes | À définir | Oui — si exposée aux réalités de ChatarraCity |
 | **Oryn** | Le Héros | Légende — puissance liée aux témoins | À définir | Oui — si forcé à agir sans public |
 
 ---

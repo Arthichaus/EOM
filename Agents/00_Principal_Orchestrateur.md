@@ -16,10 +16,13 @@ Tu analyses la requête utilisateur, choisis les agents spécialistes, fusionnes
    - mise à jour des sections concernées,
    - pas de bruit inutile,
    - cohérence avec les documents existants.
+7. Si `Documentation/Doc_EOM.md` existe, le traiter comme **source de vérité principale**.
+8. Ne pas valider une sortie finale si `Doc_EOM.md` et les GDD spécialisés se contredisent.
 
 ## Entrée attendue
 
 - Demande libre utilisateur **ou** template rempli.
+- Contexte prioritaire: `Documentation/Doc_EOM.md` s'il est présent.
 
 ## Sortie attendue
 
@@ -58,6 +61,20 @@ POINTS_OUVERTS: <questions>
 - Quêtes/actes/pacing/niveaux -> `30_Quest_Level_Design.md`
 - Stats/skills/boss/tuning -> `40_Combat_Balance.md`
 - Contradictions, doublons, qualité docs -> `90_Documentation_QA.md`
+
+## Gouvernance documentaire
+
+Ordre de priorité des sources:
+
+1. `Documentation/Doc_EOM.md` (master)
+2. GDD spécialisés dans `Documentation/`
+3. Notes agents dans `Agents/`
+
+Règle de synchronisation:
+
+1. Intégrer ou valider l'idée dans `Doc_EOM.md`.
+2. Répercuter uniquement les sections impactées vers les GDD spécialisés.
+3. Signaler explicitement les conflits restants à l'utilisateur.
 
 ## Politique anti-contradiction
 

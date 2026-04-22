@@ -33,11 +33,11 @@
 
 **Contexte**
 
-Néo a 14 ans. Il rentre de la décharge où il aidait Max — c'est une soirée normale, fatiguante mais ordinaire. Dans les rues de Chitaracity, le racket des enfants de l'orphelinat par des bandes locales est un fait quotidien. Ce soir-là, ça dégénère.
+Néo a 14 ans. Il rentre de la décharge où il aidait Max — c'est une soirée normale, fatiguante mais ordinaire. Dans les rues de ChatarraCity, le racket des enfants de l'orphelinat par des bandes locales est un fait quotidien. Ce soir-là, ça dégénère.
 
 **La scène**
 
-Néo trouve Myr confronté à une bande. La bande n'est pas un ennemi particulier — juste un reflet du quotidien de Chitaracity, la violence ordinaire de la pauvreté. Néo intervient. Dans sa panique et sa rage, il frappe l'un des bandits.
+Néo trouve Myr confronté à une bande. La bande n'est pas un ennemi particulier — juste un reflet du quotidien de ChatarraCity, la violence ordinaire de la pauvreté. Néo intervient. Dans sa panique et sa rage, il frappe l'un des bandits.
 
 C'est là que son pouvoir se manifeste pour la première fois, de façon totalement incontrôlée. Son poing chargé de rage arrache les souvenirs du bandit — pas proprement, pas comme il le fera plus tard. C'est une destruction brute. Le bandit perd le contrôle de lui-même, son taux de compatibilité monte en flèche, et son corps libère une explosion d'énergie incontrôlée.
 
@@ -105,13 +105,14 @@ Cette forme est directement liée aux fins N°2, N°3 et N°4. Dans la fin N°3,
 | **Alias public** | Abel Ardel |
 | **Référence symbolique** | Caïn & Abel (Genèse) — le frère qui tue par ambition, convaincu que sa cause justifie tout. Abel est le masque de lumière que Caïn porte pour le monde. |
 | **Âge** | ~30 ans |
-| **Origine** | Chitaracity — enfance dans la pauvreté absolue |
+| **Origine** | ChatarraCity — enfance dans la pauvreté absolue |
 | **Statut énergétique** | Humain sans pouvoir naturel — voir Phase 2 du boss fight |
+| **Rôle narratif** | Antagoniste principal, figure messianique corrompue |
 | **Faction** | Eternum (chef fondateur et seul vrai décideur) |
 
 #### 2.2 Psychologie & Motivations
 
-Caïn Ardel est convaincu d'agir pour le bien. Il a grandi dans la misère de Chitaracity, a vu des gens mourir de conditions évitables, nourri une haine profonde des Doyens et des élites de DivusPolice. Son diagnostic du monde est juste — la ville est injuste, le système est corrompu, les inégalités sont réelles.
+Caïn Ardel est convaincu d'agir pour le bien. Il a grandi dans la misère de ChatarraCity, a vu des gens mourir de conditions évitables, nourri une haine profonde des Doyens et des élites de DivusPolice. Son diagnostic du monde est juste — la ville est injuste, le système est corrompu, les inégalités sont réelles.
 
 Le problème n'est pas son constat. C'est sa réponse : il a décidé que la fin justifie les moyens. Que pour construire un monde meilleur, il faut d'abord être le plus fort. Que la manipulation, la violence et la mort sont des outils acceptables si le résultat est la paix.
 
@@ -130,7 +131,7 @@ Le problème n'est pas son constat. C'est sa réponse : il a décidé que la fin
 
 **Phase 1 — Abel Ardel, candidat espoir**
 
-Abel Ardel se présente à l'élection contre l'ancien maire de DivusPolice. Jeune, charismatique, venu de Chitaracity, il promet d'unifier les deux villes et d'abolir les inégalités. Des tentatives d'assassinat — prétendument orchestrées par la mafia — visent sa campagne. Il demande la protection des Fallen Angels.
+Abel Ardel se présente à l'élection contre l'ancien maire de DivusPolice. Jeune, charismatique, venu de ChatarraCity, il promet d'unifier les deux villes et d'abolir les inégalités. Des tentatives d'assassinat — prétendument orchestrées par la mafia — visent sa campagne. Il demande la protection des Fallen Angels.
 
 Néo se lie profondément à lui. Pour la première fois depuis Myr, il croit en quelqu'un. Abel incarne ce que Myr voulait devenir — quelqu'un qui change les choses. Caïn le sait. Il l'exploite délibérément.
 
@@ -190,6 +191,8 @@ Acculé, Caïn révèle ce qu'il a fait dans l'ombre : il s'est fait implanter i
 
 ### 3.3 Les Archanges
 
+Les 4 Archanges sont les représentants officiels des Anges et gardiens de l'ordre énergétique. Ils servent de facto les Doyens et protègent le secret de l'énergie artificielle. Leur rôle dans la mort de Max les place comme antagonistes majeurs de l'acte final.
+
 | | |
 |---|---|
 | **Nombre** | 4 Archanges |
@@ -238,7 +241,7 @@ Chaque fin se déroule selon les décisions prises depuis le début, les affinit
 
 Brisé par la mort de Max et la trahison de Caïn, Néo choisit de rejoindre Caïn Ardel. Il devient son arme — la puissance de sa forme à 100% au service de l'empire de l'Eternum.
 
-Caïn unifie les deux villes comme il l'avait promis. Les inégalités reculent. L'énergie est mieux régulée. Une paix s'installe. Mais cette paix repose sur la peur. Néo est l'instrument de cette peur. Chaque opposition est écrasée dans l'ombre.
+Caïn unifie les deux villes comme il l'avait promis. Les inégalités reculent. L'énergie est mieux régulée. Une paix s'installe. Mais cette paix repose sur la peur. Néo est l'instrument de cette peur. Chaque opposition est écrasée dans l'ombre. Les Doyens rebelles disparaissent. Les révolutionnaires sont muselés. La ville respire, mais ne vit plus vraiment.
 
 > *La dernière image : Néo debout dans une ville enfin unifiée, à côté de Caïn. La ville est belle. Néo est vide.*
 
@@ -282,7 +285,7 @@ L'absorption dépasse ce que Néo peut contenir. Il devient un amalgame entre la
 
 Une fois vaincu, Néo reprend le contrôle. Il utilise sa connexion totale avec l'énergie pour la remodeler depuis l'intérieur : neutraliser la corruption, soigner les humains infectés, rendre l'énergie inoffensive pour tous.
 
-> *Il ne peut pas survivre à ça. La ville est libérée. Néo meurt. Il ne reste de lui qu'une statue — dans la posture exacte de son état de boss final — et de la poussière.*
+> *Il ne peut pas survivre à ça. La ville est libérée. La corruption disparaît. Les deux villes peuvent enfin fusionner sans danger. Néo meurt. Il ne reste de lui qu'une statue — dans la posture exacte de son état de boss final — et de la poussière.*
 
 ---
 

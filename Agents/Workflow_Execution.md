@@ -17,6 +17,8 @@ L'orchestrateur classe la demande :
 
 Puis il détecte les domaines concernés (lore, game design, quêtes, balance, QA docs).
 
+Avant tout routage, il lit `Documentation/Doc_EOM.md` si présent, puis évalue les impacts sur les GDD spécialisés.
+
 ## 3) Appels inter-agents
 
 L'orchestrateur appelle les spécialistes au format `CALL_AGENT`.
@@ -39,6 +41,12 @@ Niveau de rigueur choisi : **Standard**
 - Ajouter un journal synthétique des changements si la modification est majeure.
 - Éviter de dupliquer les mêmes informations dans plusieurs documents.
 
+Ordre de mise à jour:
+
+1. `Documentation/Doc_EOM.md` (source de vérité).
+2. Synchronisation des GDD spécialisés impactés.
+3. Contrôle de cohérence croisée avant livraison.
+
 ## 5) Politique DESIGN vs CODE
 
 - Si la demande est `DESIGN` : docs uniquement.
@@ -54,3 +62,4 @@ Toujours livrer :
 3. Modifications docs (fichiers + sections).
 4. Roadmap détaillée (prochaines étapes).
 5. Questions en attente (si blocages).
+6. État de synchro `Doc_EOM.md` <-> GDD (OK / conflits restants).
