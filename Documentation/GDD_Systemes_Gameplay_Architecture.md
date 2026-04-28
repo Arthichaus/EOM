@@ -77,6 +77,12 @@ Exemples de zones:
 - A 90%: risque d'echec progressif
 - A 100% sans module: transformation monstrueuse
 
+La COMPAT est la jauge personnelle qui autorise l'Ultime d'un personnage.
+
+- Chaque personnage a son propre seuil de COMPAT pour lancer son Ultime.
+- Plus le seuil est eleve, plus l'Ultime doit etre puissant.
+- Les competences et les effets peuvent accelerer ou freiner l'acces a ce seuil.
+
 ### 4.2 Jauge en combat
 
 La jauge n'augmente pas automatiquement chaque tour.
@@ -86,6 +92,7 @@ Elle augmente via:
 - Competences energetiques
 - Degats recus par monstres d'energie
 - Zones a forte densite energetique
+- Effets qui modifient la COMPAT ou l'acces a l'Ultime
 
 ### 4.3 Stabilisation
 
@@ -235,7 +242,13 @@ Humains:
 
 ### 8.1 Structure de tour
 
-Tour par tour lisible, sans stat de vitesse globale dominante.
+Tour par tour lisible, avec une VIT individuelle qui fixe l'ordre d'action.
+
+Regle de base:
+
+- La VIT la plus elevee agit en premier.
+- Les bonus/malus de vitesse modifient l'ordre au debut de chaque tour.
+- A VIT egale, priorite aleatoire ou resolution selon l'avantage de rencontre.
 
 Phases:
 

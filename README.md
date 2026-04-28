@@ -8,6 +8,7 @@ Documentation pipeline:
 	- `Documentation/GDD_Antagonistes_Fins_v2.md`
 	- `Documentation/GDD_Factions_Archanges.md`
 	- `Documentation/GDD_FichesPersonnages.md`
+	- `Documentation/GDD_Buffs_Malus_Reference.md`
 	- `Documentation/GDD_Personnages_NonJouables.md`
 	- `Documentation/GDD_Systemes_Gameplay_Architecture.md`
 

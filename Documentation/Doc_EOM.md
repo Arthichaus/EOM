@@ -91,11 +91,12 @@ La decorromption devient une activite secondaire majeure apres deblocage dans la
 
 ## Systeme De Combat (Resume)
 
-- Tour par tour lisible, sans statistique de vitesse globale.
+- Tour par tour lisible, avec ordre d'action determine par la VIT des combattants.
 - Actions de base: Attaque, Competence, Ultime, Stabilisation, Objet, Fuite.
 - Les competences energetiques font monter la compatibilite.
 - Stabilisation via modules et actions dediees.
 - Boss plus resistants, avec interactions possibles sur la jauge.
+- Referentiel central des buffs, malus et etats dans une page dediee.
 
 ## Progression Et Build
 

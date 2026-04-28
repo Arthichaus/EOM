@@ -23,6 +23,47 @@
 | Fille aux gemmes | Tank / DPS | Ange | 20% | À détailler |
 ---
 
+## Repères d'équilibrage des stats
+
+Pour éviter de partir au hasard, les stats doivent suivre un budget par rôle plutôt qu'un score identique pour tout le monde.
+
+Definition de la COMPAT:
+
+- La COMPAT est le taux personnel qui permet de lancer l'Ultime.
+- Plus la COMPAT requise est haute, plus l'Ultime est puissant.
+- Une COMPAT elevee doit donc compenser par un acces plus tardif ou plus contraignant.
+- C'est une stat propre a chaque personnage, au meme titre que ses PV, son ATK ou sa VIT.
+
+Règle simple:
+
+- Les tanks investissent d'abord dans les PV et la DEF.
+- Les DPS investissent d'abord dans l'ATK, puis la PREC ou la VIT selon leur style.
+- Les supports et contrôles investissent davantage dans la PREC, la COMPAT d'Ultime et la VIT.
+- Plus un personnage a de VIT, plus il doit sacrifier un peu de PV ou de dégâts bruts.
+- La COMPAT ne doit pas remplacer le rôle principal: elle regle juste la puissance et le timing de l'Ultime.
+
+Repères de base conseillés sur l'échelle 1000 / 100:
+
+| Rôle | PV de base | ATK | DEF (%) | PREC (%) | COMPAT d'Ultime | VIT | Lecture |
+|---|---|---|---|---|---|---|---|
+| Tank pur | 800 à 900 | 450 à 550 | 60 à 65 | 50 à 60 | 55 à 70 | 35 à 45 | Mur, base DEF solide mais modules augmentent jusqu'à 80% |
+| Tank / DPS | 700 à 800 | 600 à 700 | 55 à 65 | 55 à 65 | 50 à 65 | 45 à 55 | Tient la ligne et punit au contact |
+| DPS | 550 à 650 | 750 à 900 | 40 à 50 | 60 à 75 | 45 à 60 | 65 à 80 | Doit agir vite, peu de defense |
+| Support | 500 à 650 | 400 à 550 | 45 à 55 | 65 à 80 | 70 à 90 | 50 à 65 | Gagne par la valeur utilitaire et un Ultime fort |
+| Contrôle | 500 à 650 | 450 à 600 | 45 à 55 | 75 à 90 | 65 à 85 | 55 à 70 | Fiabilise ses effets et son Ultime |
+| Hybride | 600 à 750 | 600 à 750 | 55 à 65 | 60 à 70 | 55 à 75 | 55 à 65 | Polyvalent, sans dominer partout |
+
+Si tu veux une règle encore plus simple pour les fiches (DEF de base, pouvant atteindre 80% max avec modules/arbre):
+
+- Tank pur: PV 800, ATK 500, DEF 65, PREC 55, COMPAT 60, VIT 40.
+- Tank / DPS: PV 700, ATK 650, DEF 60, PREC 60, COMPAT 55, VIT 50.
+- DPS: PV 600, ATK 850, DEF 45, PREC 70, COMPAT 50, VIT 75.
+- Support: PV 550, ATK 500, DEF 50, PREC 75, COMPAT 85, VIT 60.
+- Contrôle: PV 550, ATK 550, DEF 50, PREC 85, COMPAT 75, VIT 65.
+- Hybride: PV 650, ATK 700, DEF 60, PREC 65, COMPAT 65, VIT 60.
+
+---
+
 ## Fiches Personnages
 
 ### Néo — …
@@ -35,11 +76,11 @@
 | Rôle gameplay | Hybride |
 | Statut | Ange — taux de base 10% |
 
-**Stats indicatives (sur 100) — niveau 1**
+**Stats indicatives (sur 1000) — niveau 1**
 
-| PV | ATK | DEF (%) | PREC (%) | COMPAT |
-|---|---|---|---|---|
-| 600 / 1000 | 650 / 1000 | 10 | 25 / 100 | 70 (100) |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 600 / 1000 | 650 / 1000 | 60 | 25 / 100 | 70 (100) | 68 / 100 |
 
 **Pouvoir / Capacité**
 
@@ -65,32 +106,39 @@ Déposé bébé devant l'orphelinat de Max et Freya, Néo grandit sans connaîtr
 
 ---
 
-### Fille à la peinture — À définir
+### Léora — ...
 **Contrôle · Ange · Taux de base : 25%**
 
-| Âge | À détailler |
+| Âge | 18ans |
 |---|---|
-| Taille | À détailler |
-| Éducation | À détailler |
+| Taille | 1m65 |
+| Éducation | pauvre |
 | Rôle gameplay | Contrôle |
 | Statut | Ange — taux de base 25% |
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| À détailler | À détailler | À détailler | À détailler | À détailler |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 550 | 550 | 50 | 85 | 75 | 65 |
 
 **Pouvoir / Capacité**
 
-Pouvoir lié à la peinture — À détailler.
+Peinture — Elle posséde la capacité d'utiliser des couleurs en infusant dans des bombes de peintures une couleur particuliére parmis plusieurs, chaque couleurs possède un effets : 
+Le Rouge, inflige des dégats 3 coup (30% de l'attaque fois 3)
+Le Bleu, réduit la vitesse (-25% de vitesse)
+Le Vert réduit l'attaque (-30% d'attaque)
+Le Violet, Réduit vitesse + dégâts
+Le Jaune, Réduit l'attaque + dégâts
+Le Cyan, Réduit l'attaque + vitesse
+
 
 **Personnalité**
 
-- Qualités : À détailler
-- Défauts : À détailler
-- Peur : À détailler
-- But : À détailler
+- Qualités : créatives, 
+- Défauts : arrogante
+- Peur : Peur de ne pas réussir à laisser sa marque dans le monde
+- But : vivre de son art
 
 **Lore**
 
@@ -116,9 +164,9 @@ Pouvoir lié à la peinture — À détailler.
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 65 | 85 | 50 | 55 | 60 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 65 | 85 | 45 | 70 | 50 | 70 |
 
 **Pouvoir / Capacité**
 
@@ -155,9 +203,9 @@ Fils d'une grande famille de Divus Police, fuit avec l'aide de sa sœur cadette.
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 70 | 55 | 65 | 50 | 95 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 70 | 55 | 50 | 75 | 85 | 60 |
 
 **Pouvoir / Capacité**
 
@@ -195,9 +243,9 @@ Fille de ChatarraCity, liée à Max depuis l'enfance malgré leurs tempéraments
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 68 | 92 | 52 | 48 | 45 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 600 | 850 | 45 | 70 | 50 | 75 |
 
 **Pouvoir / Capacité**
 
@@ -234,9 +282,9 @@ Enfant, elle vit son oncle massacrer sa famille pour s'emparer du titre de Hunte
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 70 | 82 | 48 | 50 | 58 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 600 | 850 | 45 | 70 | 50 | 75 |
 
 **Pouvoir / Capacité**
 
@@ -273,9 +321,9 @@ Enfance joyeuse mais hantée par la peur de l'insignifiance. Recruté par Max po
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 62 | 48 | 58 | 88 | 90 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 550 | 550 | 50 | 85 | 75 | 65 |
 
 **Pouvoir / Capacité**
 
@@ -312,9 +360,9 @@ Héritière d'une riche maison de couture de Divus Police, refuse de reprendre l
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 85 | 65 | 80 | 82 | 42 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 750 | 600 | 60 | 60 | 55 | 50 |
 
 **Pouvoir / Capacité**
 
@@ -351,9 +399,9 @@ Grandi dans la misère absolue de ChatarraCity, témoin de morts par overdose et
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 90 | 60 | 88 | 55 | 72 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 800 | 500 | 65 | 55 | 60 | 40 |
 
 **Pouvoir / Capacité**
 
@@ -390,9 +438,9 @@ Enfance normale dérapa en troubles sociaux sévères. Incapable de sortir de ch
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 82 | 88 | 78 | 45 | 65 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 700 | 650 | 60 | 60 | 55 | 50 |
 
 **Pouvoir / Capacité**
 
@@ -433,9 +481,9 @@ Il n'a jamais trouvé qu'il avait un rôle important, il trouve que tout le mond
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 80 | 78 | 72 | 60 | 85 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 650 | 700 | 60 | 65 | 65 | 60 |
 
 **Pouvoir / Capacité**
 
@@ -473,9 +521,9 @@ Aucun pouvoir — duo inséparable. Clark conçoit des outils mécaniques et gad
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| 68 | 62 | 65 | 80 | 88 |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 550 | 550 | 50 | 85 | 75 | 65 |
 
 **Pouvoir / Capacité**
 
@@ -500,49 +548,57 @@ Petit-fils de l'ancien chef de ChatarraCity, recueilli par Max et Freya après l
 
 ---
 
-### Fille aux gemmes — À définir
+### Jade — À définir
 **Tank / DPS · Ange · Taux de base : 20%**
 
-| Âge | À détailler |
+| Âge | 25 ans |
 |---|---|
-| Taille | À détailler |
-| Éducation | À détailler |
+| Taille | 1m83 |
+| Éducation | Pauvre |
 | Rôle gameplay | Tank / DPS |
 | Statut | Ange — taux de base 20% |
 
 **Stats indicatives (sur 100)**
 
-| PV | ATK | DEF | CTRL | UTIL |
-|---|---|---|---|---|
-| À détailler | À détailler | À détailler | À détailler | À détailler |
+| PV | ATK | DEF (%) | PREC (%) | COMPAT | VIT |
+|---|---|---|---|---|---|
+| 700 | 650 | 60 | 60 | 80 | 55 |
 
 **Pouvoir / Capacité**
 
-Pouvoir lié aux gemmes — À détailler.
+Le perso peut utiliser des gemmes [en génére aléatoirement 1 part tour, après avoir utiliser une gemme avec sa compétencecet gemme est consommé, une gemme obtenue ne peut pas être re-obtenus, après avoir consommé une gemme cet même gemme pourra être obtenus, Elle possède 2 mode de combat soiT deux style : Attaque et Défense, un effets de gemme pourra être activé à la fois, une fois la capacité de la gemme utiliser l'effets disparer est obtiens l'état neutre, si un effets de gemme est présent elle entre en état gemme, une gemme peut mûrir et possède 3 stade, soit l'attaque de base n'a pas d'effets particulier, la compentétence elle est celle qui consomme la gemme] :
+| stade 1/ stade 2/ stade 3 |
+Compétence :
+
+- Gemme Ruby : Attaque - dégâts inflige 30%/40%/50% de l'attaque et met le malus Enflammé pendant 3 tour avec des dégats de 2%/4%/6% de PV max par tour
+Défense -  lorsqu'elle reçois un attaque elle contre attaque et inflige Enflammé pendant 3 tour à l’ennemie qui l'a attaquer
+
+- Gemme Saphir : Attaque - inflige gelure pendant 2 tour avec 15%/25%/50% de réduction de vitesse
+Défense - esquiver les attaques des ennemis avec (15%/25%/50%)
+
+- Gemme Améthyste : Attaque - inflige Empoisonnement pendant 3 tour dégâts sur la durée qui inflige 10%/15%/25% de l'attaque
+Défense - si les ennemis la frappe elle leur inflige Empoisonnement
+
+- Gemme Onyx : Attaque - inflige l’effet Fragilisation augmente les dégâts que subissent les ennemis de 10%/12,5%/15%
+Défense - contre attaque l’ennemie avec 80% de son attaque et inflige un effets de Fragilisation qui augmente les dégâts qu'il subit de 20%
+
+- Gemme Opale : Attaque - attaquer tout les ennemis à 50%/60%/70% de son attaque
+Défense : protection contre les malus à elle même et ses alliées, en réduisant la durée du malus de 1/2/suppression de tout les malus
+
+Ultime : Bismuth : 80%
+Attaque - Utilise toutes les gemmes disponible en une et frappe les ennemis de 100% de son attaque et inflige chaque effets de tout les gemme utiliser en mode Attaque
+Défense - provoque tout les ennemis et applique chaque effets des gemmes en mode Défense
 
 **Personnalité**
 
-- Qualités : À détailler
-- Défauts : À détailler
-- Peur : À détailler
-- But : À détailler
+- Qualités : Protectrice, courageuse, maline
+- Défauts : sang chaud
+- But : Veux changer les choses de l'intérieure aux sujets des doyens 
 
 **Lore**
 
-À détailler.
-
-*Secret : À détailler.*
+Elle est la petite fille du chef des doyens, grâce à son pouvoir son grand père à tjr voulu quelle rejoingne la famille ARTIFICIUM. Elle est la seule qui a tjr voulu aider les autres car les forts ont le devoir d'aider les faibles. Elle est donc l'enfant rebelle de cet famille et la honte de celle-ci, Le Doyens essaye de la cacher aux yeux de la ville. Elle passe son temps à aider Chatarra city 
 
 **Voies de progression**
 - Voie Tank Gemme — À détailler
 - Voie DPS Gemme — À détailler
-
-**Zone associée**
-
-- Nom de zone : À détailler
-- Type : À détailler
-- Position monde : À détailler
-- Ennemis principaux : À détailler
-- Mini-boss/Boss : À détailler
-- Mécanique de zone : À détailler
-- Récompenses : À détailler
