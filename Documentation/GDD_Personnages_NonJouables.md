@@ -1,5 +1,7 @@
 # GDD - Personnages Non Jouables
 
+Auteur: ArthMil
+
 Document dedie aux personnages importants de la narration qui ne sont pas jouables.
 
 ## Tableau Recapitulatif PNJ Importants

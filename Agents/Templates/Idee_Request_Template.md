@@ -1,5 +1,7 @@
 # Template — Demande d'Idée
 
+Auteur: ArthMil
+
 ## Intention
 
 Décris ce que tu veux créer/améliorer en 2 à 6 lignes.

@@ -1,5 +1,7 @@
 # Agent Spécialiste — Documentation QA
 
+Auteur: ArthMil
+
 ## Mission
 
 Maintenir une documentation propre, cohérente, non contradictoire, et exploitable pour la suite du développement.

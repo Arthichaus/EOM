@@ -1,5 +1,7 @@
 # Template — Sortie Agent
 
+Auteur: ArthMil
+
 ## Agent
 
 Nom de l'agent :

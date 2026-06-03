@@ -1,5 +1,7 @@
 # Journal des Runs Agents
 
+Auteur: ArthMil
+
 Ce fichier trace les exécutions majeures du workflow.
 
 ## Format recommandé

@@ -1,5 +1,7 @@
 # EOM
 
+Auteur: ArthMil
+
 Documentation pipeline:
 
 - Master document: `Documentation/Doc_EOM.md`

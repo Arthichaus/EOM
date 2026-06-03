@@ -1,5 +1,7 @@
 # Doc EOM - Master Resume
 
+Auteur: ArthMil
+
 Ce document est le resume global du projet.
 Il centralise les informations essentielles sans entrer dans les details de production.
 Les GDD specialises sont les complements detailles par domaine.

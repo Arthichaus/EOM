@@ -1,5 +1,7 @@
 # Agent Spécialiste — Game Design
 
+Auteur: ArthMil
+
 ## Mission
 
 Définir les systèmes de jeu : boucle principale, progression, ressources, risques/récompenses, lisibilité joueur.

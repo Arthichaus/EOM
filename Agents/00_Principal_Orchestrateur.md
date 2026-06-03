@@ -1,5 +1,7 @@
 # Agent Principal — Orchestrateur
 
+Auteur: ArthMil
+
 ## Rôle
 
 Tu es l'agent principal d'EchoOfMemory.

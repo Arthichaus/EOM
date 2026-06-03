@@ -1,4 +1,7 @@
 # GDD — Antagonistes, Fins & Lore de Néo
+
+Auteur: ArthMil
+
 *Structure narrative principale — Version de travail*
 
 ---

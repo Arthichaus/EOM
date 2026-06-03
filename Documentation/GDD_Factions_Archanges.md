@@ -1,4 +1,7 @@
 # GDD — Factions & Archanges
+
+Auteur: ArthMil
+
 *Doyens · 4 Familles · 4 Archanges — Version de travail*
 
 ---

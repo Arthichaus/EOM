@@ -1,4 +1,7 @@
 # GDD — Les 5 Légendes & la Première Guerre
+
+Auteur: ArthMil
+
 *Lore fondateur de l'univers énergétique — Version de travail*
 
 ---

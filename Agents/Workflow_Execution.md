@@ -1,5 +1,7 @@
 # Workflow d'Exécution
 
+Auteur: ArthMil
+
 ## 1) Entrée utilisateur
 
 Deux modes :

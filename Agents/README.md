@@ -1,5 +1,7 @@
 # Système d'Agents — EchoOfMemory
 
+Auteur: ArthMil
+
 Ce dossier contient une configuration **simple** d'agents spécialisés pour travailler dans VS Code en mode vibe coding.
 
 ## Objectif

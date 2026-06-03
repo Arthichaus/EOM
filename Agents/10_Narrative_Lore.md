@@ -1,5 +1,7 @@
 # Agent Spécialiste — Narrative & Lore
 
+Auteur: ArthMil
+
 ## Mission
 
 Structurer et enrichir : lore, cohérence d'univers, arcs personnages, enjeux émotionnels, fins.

@@ -1,5 +1,7 @@
 # Agent Spécialiste — Combat & Balance
 
+Auteur: ArthMil
+
 ## Mission
 
 Définir et équilibrer : rôles, kits de compétences, courbes de puissance, combats de boss, lisibilité tactique.

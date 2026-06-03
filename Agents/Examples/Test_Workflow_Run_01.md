@@ -1,5 +1,7 @@
 # Test Workflow 01 — Dry Run
 
+Auteur: ArthMil
+
 Date : 2026-04-21
 
 ## Requête simulée

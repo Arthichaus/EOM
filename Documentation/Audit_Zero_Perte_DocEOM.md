@@ -1,5 +1,7 @@
 # Audit Zero Perte - Migration Doc_EOM
 
+Auteur: ArthMil
+
 Objectif: verifier que les informations denses de l'ancien master ont ete preservees lors de la refonte vers un master resume + GDD detailles.
 
 ## Statut Global
