@@ -125,14 +125,14 @@ La COMPAT est la jauge personnelle qui autorise l'Ultime d'un personnage.
 
 ### 4.2 Jauge en combat
 
-La jauge n'augmente pas automatiquement chaque tour.
+La jauge n'augmente pas automatiquement chaque tour .
 
 Elle augmente via:
 
-- Competences energetiques
-- Degats recus par monstres d'energie
-- Zones a forte densite energetique
-- Effets qui modifient la COMPAT ou l'acces a l'Ultime
+- Competences des personnages -> leur taux est définie sur les personnage eux même.
+- Attaque de base -> leur taux est définie sur les personnage eux même.
+- Degats recus par monstres d'energie -> certains monstre auront cet capcité
+- Zones a forte densite energetique -> zone spécifique
 
 ### 4.3 Stabilisation
 
@@ -240,7 +240,7 @@ Caps globaux:
 - L'Xp sera de plus en plus donnée en fonction des zones, des zones seront plus dur et donc le niveaux y sera plus grand et donc plus de gain dont l'xp, à chaque actes les nouvelles zones des actes seront plus difficile et donc donneront un xp adapter pour des lvl 50 par exemple .
 - Courbe d'xp : elle double après chaque niveaux soit du Lvl 1 à 2 il faut 50 puis du lvl 2 à 3 - 100 etc...
 - Xp moyenne par combat : 1 mob de lvl1-5 -> 15xp et augmente de 5xp après chaque cap de lvl (ex : 6-10 -> 20xp; 11-15 -> 25xp...)
-- Xp par quete : a definir plus tard selon la difficulte et le type, et varie selon quand elle est obtenable dans l'histoire (quete de combat - quete d'enquete - quete principale).
+- Xp par quete : Selon dans quelle zone elle se situe et à quelle moment de l'histoire elle est obtenue, une quete de lv1-5 donne entre 100-150 et augmente de 100 par tranche de 5 niveau, plus la quete à de phase à réaliser plus elle donne de l'xp soit 25xp par phase (quete de faction - quete d'enquete - quete principale - quete secondaire - quete spéciale).
 - Niveau cible par fin d'actes : Acte 1 - lvl 40-45 | Acte 2 - lvl 90-95 | Acte 3 - lvl 140-145 
 - Selon l'acte le niveau cap du niveau max augmente : - Niveau max cible: 50 Acte 1 | 100 Acte 2 | 150 Acte 3
 - Points de competence distribues a la progression, soit 1 point tou les niveaux sauf, 3 tout les niveau finissant par 5 (5,15,25...) et 5 tout les niveaux finissant par 0 expecter 0 (10,20,30...)cela reste le même pour chaque actes et les point peuvent se cumuler si on ne les dépense pas.
@@ -283,7 +283,7 @@ Phases:
 - Competence
 - Ultime
 - Stabilisation (pour ange)
-- Objet
+- Objet (on peut choisir sur qui le mettre)(peut être utiliser mais le tour/action du personnage est consomé)
 - Fuite
 
 ### 8.3 Calcul des degats (structure cible)
@@ -291,6 +291,11 @@ Phases:
 - Chaque competence/attaque definit son propre ratio dans la fiche du personnage/ennemi.
 - La formule exacte est portee par la competence (ex: %ATK, %DEF fixe, degats bruts).
 - Ordre general: base du skill -> critique -> buffs/malus de degats.
+
+Execption :
+- Pour Jackson : son "Ignore def" annule juste toutes défense.
+- Pour Ulysse : la réduction de dégats qu'il s'inflige à lui même s'applique après le crite s'il y en a un.
+- Pour Ethan les dégats renvoyer sont des dégats brute
 
 Formules types (exemples):
 
@@ -486,6 +491,11 @@ IA par archetype:
 - Moteur cible: Godot 4
 - Approche data-driven
 - Donnees parametreables
+
+Formats de donnees:
+
+- Resources (.tres): characters, skills, items, enemies, modules, quests, dialogues
+- JSON (sauvegardes): parametres utilisateur, position joueur, inventaire actuel, progression de quete, coffres ouverts
 
 ### 10.1 Organisation projet
 

@@ -13,17 +13,17 @@ Auteur: ArthMil
 |---|---|---|---|---|
 | Ethan Robot | Tank | Humain | — | Le génie derrière la création |
 | Ulysse | Hybride DPS / Tank | Humain | — | L'humain qui défie les Anges |
-| Clark & Morgan | Spécial : Adaptation | Humain | — | Le cerveau et les bras |
-| Lino (Néo) | Spécial : Copie | Ange | 10% | — |
-| Fille à la peinture | Contrôle | Ange | 25% | À détailler |
+| Clark & Morgan | Support | Humain | — | Le cerveau et les bras |
+| Lino (Néo) | DPS | Ange | 0% | — |
+| Fille à la peinture | Contrôle | Ange | 0% | À détailler |
 | Angel | DPS | Ange | 25% | Le joueur fou |
-| Freya Harmony | Support | Ange | 30% | La diablesse aux deux facettes |
-| Mara Hunter | DPS | Ange | 20% | La guerrière aiguisée |
-| Jackson Howard | DPS | Ange | 15% | … |
-| Anya Seamstress | Support | Ange | 15% | La tisseuse du temps |
-| Grant Addams | Tank / Contrôle | Ange | 25% | Le fantôme de ChatarraCity |
-| Sam | Support / Contrôle | Ange | 20% | L'infiltré dans l'eau qui dort |
-| Fille aux gemmes | Tank / DPS | Ange | 20% | À détailler |
+| Freya Harmony | Support | Ange | 0% | La diablesse aux deux facettes |
+| Mara Hunter | DPS | Ange | 0% | La guerrière aiguisée |
+| Jackson Howard | DPS | Ange | 0% | … |
+| Anya Seamstress | Support | Ange | 0% | La tisseuse du temps |
+| Grant Addams | Tank / Contrôle | Ange | 0% | Le fantôme de ChatarraCity |
+| Sam | Support / Contrôle | Ange | 0% | L'infiltré dans l'eau qui dort |
+| Fille aux gemmes | Tank / DPS | Ange | 0% | À détailler |
 ---
 
 ## Repères d'équilibrage des stats
@@ -86,7 +86,7 @@ Si tu veux une règle encore plus simple pour les fiches (DEF de base, pouvant a
 Passif : Souvenir — Lorsque que Néo frappe un ennemie, donne un effet Fragmenté, plus il frappe plus l'ennemie reçois des cumule de fragmenté(max 20).
 Attaque de base : Frappe l'ennemie avec 60% d'atk.(+5% de COMPAT)
 Competence : Frappe 2 fois un ennemie avec 40% de l'atk à chaque coup, donne 5 cumule de fragment.(+20% de COMPAT)
-Ultime : Frappe une cible(coup critique garantie) et y consomme toute les cummules de fragmenté, inflige 100% de l'atk, puis 3.5% de PV manquants en dégâts bruts par cumule.      
+Ultime : Frappe une cible(coup critique garantie) et y consomme toute les cummules de fragmenté, inflige 100% de l'atk, puis 2.5% de PV manquants en dégâts bruts par cumule.      
 
 Compétence d'ange :
 -Module : Réduit la jauge de 50%, 3 utilisations par combat, ne descend jamais sous le taux de base.
@@ -185,7 +185,7 @@ Elle est une jeune de Chatarra city, elle cherche à poser sa marque dans cet vi
 Passif : Luck — invoque une roue de casino (37 cases : 18 noires, 18 rouges, 1 jaune) a chaque tour. Noire = buff defensif, Rouge = buff offensif, Jaune = +100% aux deux. +2,5% par point du chiffre de la case. Buff actif 1 tour.
 Attaque de base : Lance des jetons de casino sur la cible, 60% de l'attaque.(+5% de COMPAT)
 Competence : Frappe l'ennemi et inflige 50% de l'attaque + 50% de la defense (ratio 10% -> 100 degats + valeur def fixe).(+20% de COMPAT)
-Ultime : Lance des des sur chaque ennemi. 1: 55% att+def, 2: 60%, 3: 70%, 4: 80%, 5: 90%, 6: 100%.
+Ultime : Lance des des sur chaque ennemi. 1: 55% att+def, 2: 60%, 3: 70%, 4: 80%, 5: 90%, 6: 100%.(ratio de def pour chaque tranche 10% de def% -> 100 degats + valeur def fixe).
 
 Compétence d'ange :
 -Module : Réduit la jauge de 50%, 3 utilisations par combat, ne descend jamais sous le taux de base.
@@ -273,7 +273,7 @@ Fille de ChatarraCity, liée à Max depuis l'enfance malgré leurs tempéraments
 
 **Pouvoir / Capacité**
 
-Passif : Replique — peut repliquer une attaque effectuee (coup physique ou arme blanche) dans une zone courte. La portee augmente mais les frappes perdent en puissance - applique saignement à chaqu'un de ses coups qui touche une cible pas de limite de tour pour les saignement.
+Passif : Replique — peut repliquer une attaque effectuee (coup physique ou arme blanche) dans une zone courte. La portee augmente mais les frappes perdent en puissance - applique saignement à chaqu'un de ses coups qui touche une cible pendant 3 tour.
 Attaque de base : 50% de l'attaque. (+5% de COMPAT)
 Competence : Attaque a 80% de l'attaque. Si la cible a des Saignements, Mara ajoute une attaque de base sur un ennemi aléatoire selon le nombre d'effets de saignement (1er rebond 75% de l'attaque, -5% a chaque rebond).(+20% de COMPAT)
 Ultime : Vague de rebonds sur un ou plusieurs ennemis, 5 attaques a 60% de l'attaque, puis des rebonds additionnels jusqu'a 10 (50% de l'attaque) selon les Saignements.
@@ -315,7 +315,7 @@ Enfant, elle vit son oncle massacrer sa famille car il l'as trahie. Traumatisée
 
 **Pouvoir / Capacité**
 
-Passif : Canalisation d'energie — concentre de l'energie dans son corps ou ses equipements (monocle/arme) - Possède une autre jauge -> Jauge d'énergie qui augmente les dégats des tires - Commence avec 50% de sa jauge - Augmente de 20% après chaque actions.
+Passif : Canalisation d'energie — concentre de l'energie dans son corps ou ses equipements (monocle/arme) - Possède une autre jauge : "Stockage d'energie" -> Jauge d'énergie qui augmente les dégats des tires - Commence avec 50% de sa jauge - Augmente de 20% après chaque actions.
 Attaque de base : Inflige tire simple de 60% atk. Monocible, (+5% de COMPAT)
 Competence : 5 stade : 
 - Consomme 20% - inflige 80% atk.
@@ -364,7 +364,7 @@ Enfance joyeuse mais hantée par la peur de l'insignifiance. Recruté par Max po
 
 **Pouvoir / Capacité**
 
-Passif : Au début du combat, tise un lien avec un alliée, donne donc l'état lien aux personnage désigner (désigne l'alliée en fonction de l'atk la plus élevée), après chaque tour passer avec l'effets lien cet effets augmente de 1 jusqu'à 10 puis deviens un nouvelle effets lien intenporel.
+Passif : Au début du combat, tise un lien avec un alliée, donne donc l'état lien aux personnage désigner (désigne l'alliée en fonction de l'atk la plus élevée)(si l'alliées ayant lien tombe KO alors un nouveau lien se créer sur l'autre alliée en vie, s'il ne reste qu'elle alors rien ne se passe), après chaque tour passer avec l'effets lien cet effets augmente de 1 jusqu'à 10 puis deviens un nouvelle effets lien intenporel.
 Attaque de base : Soigne 20% de son atk l'alliée choisi, si l'alliée est celui qui possède l'effets lien alors lui donne 2 cumule de lien.(+5% de COMPAT)
 Competence : Donne des buffs en fonction du nombre de cumule de lien : -si entre 1 - 5 : Donne buff offensif (+20% de l'attaque de base)(2t) et buff defensif(+300 de def fixe)(2t).
 -si entre 6-9 : Donne buff offensif (+30% de l'attaque de base)(2t) et buff de défensif(+400 de def fixe)(2t).
@@ -410,7 +410,7 @@ Héritière d'une riche maison de couture de Divus Police, refuse de reprendre l
 
 **Pouvoir / Capacité**
 
-Passif : Ectoplasme — Encaisse la première attaque (se reset après son action, ne peut pas être cumuler), et crée des chaine d'ectoplasme qui le relie à un ennemis donne donc l'effet Enchainer, l'ennemis ne pour plus qu'attaquée Grant.
+Passif : Ectoplasme — Encaisse la première attaque (se reset après son action, ne peut pas être cumuler, son action est définie par l'utilisation de stabilisation, d'attaque de base, de compétence, ultime), et crée des chaine d'ectoplasme qui le relie à un ennemis donne donc l'effet Enchainer, l'ennemis ne pour plus qu'attaquée Grant.
 Attaque de base : Frappe l'ennemie de 60% atk, et Affaiblissement (-20%) pendant 2 tour .(+5% de COMPAT)
 Competence : Provoque chaque ennemies(1t) et gagne un buff defensif (+500 de def)(2t) puis frappe l'ennemie relier à lui pour lui infligé 70% de son atk et 75% d'étoudire(75% puis precision).(+20% de COMPAT)
 Ultime : Créer plusieurs chaine qui frappe tout les ennemie à hauteur de 50% de son atk et 50% de def(ratio 10% -> 100 degats + valeur def fixe), et pour chaque ennemies malus Affaiblissement de 20%(2t).
@@ -453,7 +453,7 @@ Grandi dans la misère absolue de ChatarraCity, témoin de morts par overdose et
 
 **Pouvoir / Capacité**
 
-Passif : Renforcement — Possède sa propre jauge, il accumule les dégats qu'il subit jusqu'à un max de 10 000(s'il plus sont stocker, tombe KO)(les dégats stocké correspond aux dégats subit après réduction via def).
+Passif : Renforcement — Possède sa propre jauge : "réservoire", il accumule les dégats qu'il subit jusqu'à un max de 10 000(s'il plus sont stocker, tombe KO)(les dégats stocké correspond aux dégats subit après réduction via def).
 Attaque de base : Frappe un ennemie de 20% d'atk + 10% de sa def (ratio 10% -> 100 degats + valeur def fixe).
 Competence : donne un effets Sacrifice à ses alliées qui lui permet de prendre 20% des dégats que subit un alliée et de le prendre à sa place (attaque ennemie -> 100% : 80% pour alliées et 20% pour lui)(2t).
 Ultime : Utilisable à n'importe quels moments; Renvoie tout les dégats subit sur tout les ennemies, après utilisation le lanceur est étourdis pendant 1 tour.
@@ -542,7 +542,7 @@ Attaque de base :
 Compétence : 
 -Clark : donne buff TC (+20%)(2t) et buff de vitesse (+10)(2t) à un alliée.
 -Morgan : dégâts 70% de l'atk donne malus Affaiblissement(-20%)(2t) et malus Brisure (-20%)(2t) à un ennemi.
-Ultime : (condition de lancement : il faut que Clark et Morgan est agis 2 fois individuellement) Les deux peuvent être jouer en même temps, ont peut donc choisir entre l'attaque de base et la compétence :
+Ultime : (condition de lancement : il faut que Clark et Morgan est agis 2 fois individuellement, soit 2 fois chacun) Les deux peuvent être jouer en même temps, ont peut donc choisir entre l'attaque de base et la compétence :
 -attaque de base : Buff offensif (+20%)(2t) et buff defensif (+200)(2t) sur tout les alliées.
 -Compétence :  dégâts 70% de l'atk donne malus Affaiblissement(-30%)(2t) et malus Brisure (-30%)(2t) à un ennemi et donne à tout les alliées buff TC(+20%)(2t)  et buff de vitesse (+20)(2t) .
 
@@ -627,13 +627,13 @@ Passif : Systeme de gemmes. Une gemme est generee aleatoirement par tour. Une ge
 Attaque de base : Frappe un ennemi de 60% de l'atk.(+5% de COMPAT)
 Competence : Consomme la gemme choisie et en fonction de son stade les effets différe:
 - Ruby : Attaque 30%/40%/50% ATK + Enflammé 3 tours (2%/4%/6% PV max). Defense: applique effets Contre Ruby.
-- Saphir : Attaque applique Ralentissement 2 tours (15%/25%/50% reduction de vitesse). Defense: applique effets Esquive Saphir.
+- Saphir : Attaque applique Ralentissement 2 tours (15%/25%/50% reduction de vitesse)(seule l'effets le plus puissant s'active ex : si ennemies malus de 50% et que il reçois malus de 20% -> le malus de 20% ne s'active pas et le 50% reste). Defense: applique effets Esquive Saphir.
 - Amethyste : Attaque applique Empoisonnement 3 tours (10%/15%/25% ATK). Defense: Applique effets Contre Amethyste.
 - Onyx : Attaque applique Fragilisation (10%/12,5%/15%). Defense: applique effets Contre Onyx.
 - Opale : Attaque AOE 50%/60%/70% ATK. Defense: immunité .
 (Avant de lancer l'attaque, demande à choisir le style)
 (+15% de COMPAT)
-Ultime : Bismuth (COMPAT 80). Attaque: consomme toutes les gemmes, 100% ATK et applique tous les effets. Defense: provoque tous les ennemis et applique les effets de defense des gemmes.
+Ultime : Bismuth . Attaque: consomme toutes les gemmes, 100% ATK et applique tous les effets. Defense: provoque tous les ennemis et applique les effets de defense des gemmes.
 (Avant de lancer l'attaque, demande à choisir le style)
 
 Compétence d'ange :

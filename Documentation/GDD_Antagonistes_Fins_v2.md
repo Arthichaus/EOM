@@ -146,7 +146,7 @@ Néo comprend alors que Caïn connaissait tout sur lui — y compris Myr. Qu'il 
 
 **Phase 3 — La Guerre & la Mort de Max**
 
-Guerre ouverte dans la ville. Max, acculé par la mafia et les Archanges, est abattu. Il libère toute sa puissance en se transformant en monstre d'énergie, tuant un Archange au passage. Néo est contraint de tuer Max de ses propres mains. C'est dans cet effondrement total que sa forme à 100% se manifeste pour la première fois.
+Guerre ouverte dans la ville. Max, acculé par la mafia et les Archanges, est abattu. Il libère toute sa puissance en se transformant en monstre d'énergie, tuant des assasins. Néo est contraint de l'affronter mais un archange arrive et le tue puis affronte Néo. C'est dans cet effondrement total que sa forme à 100% se manifeste pour la première fois.
 
 #### 2.4 Boss Fight — Caïn Ardel
 

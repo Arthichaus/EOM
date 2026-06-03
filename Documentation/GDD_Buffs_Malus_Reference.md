@@ -18,6 +18,7 @@ Cette page centralise les buffs, malus et états utilisés par le système de co
 - En critique, les degats sont multiplies par (1 + DC%). Exemple: DC 100% -> degats doubles.
 - Les buffs qui augmentent les degats s'appliquent apres le calcul du critique.
 - La Precision est la chance (%) d'appliquer un malus a la cible.
+- Valeurs globales par defaut ci-dessous (les fiches perso peuvent remplacer ces valeurs).
 
 ---
 
@@ -78,6 +79,7 @@ Régle : les tour des effets/malus/buff son noter sur les personnage/ennemis
 | Bulles | Etat | Posséde 80% des pv de Sam, elle protége des dégats subit, non cumulable | Sam | réagis comme une protection des dégats subits, une couche de pv supplémentaire |
 | Etat repos | Etat | Fait diminuer la jauge de surchauffe de 10% en plus après chaque action | Ulysse | permet de réduire la surchauffe |
 | Etat contre | contre | 75% de contrer un attaque ennemies de 25% d'atk et 25% de def(ratio 10% -> 100 degats + valeur fixe), il subit l'attaque mais la réduit en plus de la def (%) de 20%( attque -> def (%) -> reduc 20% -> subit -> contre) | Ulysse | à chaque attaque ennemies |
+| Réservoir | Jauge |  il accumule les dégats qu'il subit jusqu'à un max de 10 000(s'il plus sont stocker, tombe KO)(les dégats stocké correspond aux dégats subit après réduction via def) | Ethan | jauge |
 | Sacrifice | Etat |  permet de prendre 20% des dégats que subit un alliée et de le prendre à sa place | Ethan | pour stacker la jauge |
 | Enchainer | Etat |  l'ennemis ne pour plus qu'attaquée Grant tant qu'il a cet effet sur lui | Grant | une sorte de provoc spéciale |
 | Rejoue | Etat |  la cible rejoue un tour après une action | Anya |  |
@@ -85,7 +87,7 @@ Régle : les tour des effets/malus/buff son noter sur les personnage/ennemis
 | Lien intemporel | Etat | n'a pas d'effets particulier mais via une compétence donne des buff, etat finale de lien ne peut pas être cumuler, et la cible qui a cet effets ne peut plus recevoir d'effet lien ! | Anya |  |
 | Couleur | Etat | Tous ses effets son définie sur le personnage de Léora les différents etat son : Rouge, Bleu, Vert, Violet, Jaune, Cyan, Rouge foncé, Vert foncé, Bleu foncé dure tant qu'il ne sont pas fusionné | Léora | chauqe couleur à un effets |
 | Fragmenté | Etat | n'a pas d'effets particulier mais via un ultime peuvent être consomé pour infligé des dégâts, cumule max 20  | Néo |  |
-
+| Stockage d'energie | Jauge |  Jauge d'énergie qui augmente les dégats des tires - Commence avec 50% de sa jauge - Augmente de 20% après chaque actions. | Jackson | degats |
 ---
 
 ## A completer
