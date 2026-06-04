@@ -16,8 +16,8 @@ Auteur: ArthMil
 | **L'intervention des 5** | Cinq individus aux pouvoirs hors du commun interviennent ensemble. Ils arrêtent la guerre — partiellement par leurs actes, partiellement parce que l'énergie pure s'effondre dans une explosion finale dévastatrice. Ce qu'ils ont déclenché ou accéléré reste ambigu. Ils ont sauvé ce qui restait. |
 | **L'explosion finale** | L'énergie pure est détruite dans son quasi-totalité. Des pays entiers sont effacés. La carte du monde est redessinée par la destruction. Des zones resteront définitivement corrompues ou inhabitables. |
 | **Disparition des 5** | Quelques années après la guerre, les 5 Légendes disparaissent une à une. Aucune explication officielle. La version écrite des faits les présente comme des héros qui se sont retirés après leur mission. La réalité est plus complexe pour chacun d'eux. |
-| **Reconstruction** | Les survivants reconstruisent sur les ruines. Le père du futur Doyen d'ARTIFICIUM découvre les derniers fragments d'énergie pure stables. Il cherche à reproduire cette énergie artificiellement pour alimenter la reconstruction. |
-| **La fusion de Rai** | L'un des 5 — Rai — est mortellement blessé. Plutôt que de le laisser mourir, le père d'ARTIFICIUM lui propose une fusion avec le dernier fragment d'énergie pure. Rai accepte par instinct de survie. Cette fusion crée la première source d'énergie artificielle — et le début de la corruption. |
+| **Reconstruction** | Les survivants reconstruisent sur les ruines. Le grand-père du futur Doyen d'ARTIFICIUM découvre les derniers fragments d'énergie pure stables. Il cherche à reproduire cette énergie artificiellement pour alimenter la reconstruction. |
+| **La fusion de Rai** | L'un des 5 — Rai — est mortellement blessé. Plutôt que de le laisser mourir, le père d'ARTIFICIUM(fondateur de l'energie artificiel) lui propose une fusion avec un fragment d'énergie pure. Rai accepte par instinct de survie. Cette fusion crée la première source d'énergie artificielle — et le début de la corruption. |
 | **Ère actuelle (jeu)** | L'énergie artificielle alimente DivusPolice et ChatarraCity. Sa source — Rai emprisonné dans le noyau — est le secret le mieux gardé de la ville. La corruption s'accélère. Personne ne comprend vraiment pourquoi. Angel se rapproche de la vérité. |
 
 ---
@@ -55,7 +55,7 @@ L'explosion finale de l'énergie pure fut la destruction la plus massive de l'hi
 |---|---|
 | **Zones effacées** | Pays entiers réduits à des ruines. Certaines zones de la carte du jeu sont des vestiges de cette destruction — sans vie, corrompues en permanence. |
 | **Zones corrompues permanentes** | Résidus d'énergie pure dégradée. Certaines correspondent aux zones corrompues permanentes mentionnées dans le système de jeu. |
-| **Reconstruction** | Les survivants reconstruisirent sur les ruines avec les moyens disponibles. La famille ARTIFICIUM émergea de cette période — leur technologie énergétique fut ce qui permit la reconstruction de la mégapole. |
+| **Reconstruction** | Les survivants reconstruisirent sur les ruines avec les moyens disponibles. La famille ARTIFICIUM émergea de cette période — leur technologie énergétique fut ce qui permit la reconstruction de la mégapole Américaine. D'autres nation réussir à renaitre de leurs propres cendres |
 | **Mémoire collective** | La guerre est connue mais ses détails vrais sont flous. Les nations qui survécurent réécrivirent l'histoire à leur avantage. La vérité sur les 5 Légendes fut progressivement enfouie. |
 
 ---
@@ -76,7 +76,7 @@ Les 5 Légendes sont des individus humains dont les pouvoirs atteignirent un niv
 | **Nom** | Rai — du japonais raijin, tonnerre et foudre |
 | **Pouvoir originel** | Foudre et vitesse fulgurante. Aussi rapide et dévastateur que l'éclair lui-même. Le plus offensivement puissant des 5 en termes de vitesse et de destruction instantanée. |
 | **Rôle dans la guerre** | Fer de lance offensif des 5. Sa vitesse lui permettait d'intervenir partout simultanément — neutraliser des commandements, stopper des offensives, désarmer des arsenaux entiers en secondes. |
-| **Ce qui lui est arrivé** | Mortellement blessé dans l'explosion finale de l'énergie pure. Son corps irradié au-delà de toute récupération. Le père du Doyen d'ARTIFICIUM lui proposa une fusion avec le dernier fragment d'énergie pure stable comme seule option de survie. |
+| **Ce qui lui est arrivé** | Mortellement blessé dans l'explosion finale de l'énergie pure. Son corps irradié au-delà de toute récupération. Le père d'ARTIFICIUM lui proposa une fusion avec le dernier fragment d'énergie pure stable comme seule option de survie. |
 | **La fusion** | Rai accepta — pas par idéologie ou sacrifice héroïque. Par instinct de survie pur. Il ne voulait pas mourir. Cette décision, humaine et compréhensible, est à l'origine de toute la corruption du monde actuel. |
 | **État actuel** | Ni mort ni vivant. Fusionné avec l'énergie artificielle depuis des décennies. Sa conscience est fragmentée, son corps dissous dans le noyau. Son désir animal de continuer à exister génère en permanence la corruption — une énergie qui cherche instinctivement à se répandre et à survivre dans d'autres corps. |
 | **Ce que le joueur voit** | Dans la zone ARTIFICIUM, au cœur de la centrale, le corps de Rai est visible dans le noyau — une silhouette humaine à peine reconnaissable, enveloppée d'énergie. Immobile. Toujours vivante. |
@@ -95,12 +95,12 @@ Les 5 Légendes sont des individus humains dont les pouvoirs atteignirent un niv
 | **Rôle dans la guerre** | Architecte de la stratégie des 5. C'est lui qui coordonna leur intervention, décida des cibles, calcula les risques. Sans lui, les 5 n'auraient jamais agi de façon cohérente. |
 | **Disparition** | Disparut quelques années après la guerre, sans explication. Contrairement aux autres, il ne laissa aucune trace — ni corps, ni témoignage direct, ni lieu de retraite connu. |
 | **Statut actuel** | Inconnu. Certains écrits anciens suggèrent qu'il serait encore en vie — extrêmement vieux, caché quelque part dans les zones rasées par la guerre. Ses capacités d'anticipation lui auraient permis de prévoir sa propre disparition et de la planifier parfaitement. |
-| **Ce qu'il sait** | Vael sait probablement tout — la vérité sur la fusion de Rai, les manipulations du Doyen d'ARTIFICIUM, l'accélération de la corruption. S'il est encore vivant, il a choisi de ne pas intervenir. Pourquoi ? C'est une question ouverte du lore. |
+| **Ce qu'il sait** | Vael sait probablement tout — la vérité sur la fusion de Rai, les manipulations du Doyen d'ARTIFICIUM, l'accélération de la corruption et bien d'autres encore à travers le monde. S'il est encore vivant, il a choisi de ne pas intervenir. Pourquoi ? C'est une question ouverte du lore. |
 | **Comment le découvrir** | Via des écrits très anciens dans les zones corrompues permanentes — des fragments de stratégie militaire, des analyses de batailles. Angel les reconnaît comme son travail. |
 
 ---
 
-### 3.3 Sera — La Gardienne
+### 3.3 Sera — La Gardienne à revoir
 **Ses traces existent encore**
 
 | | |
@@ -115,7 +115,7 @@ Les 5 Légendes sont des individus humains dont les pouvoirs atteignirent un niv
 
 ---
 
-### 3.4 Korum — Le Destructeur
+### 3.4 Korum — Le Destructeur à revoir
 **Mort — ou peut-être pas**
 
 | | |
